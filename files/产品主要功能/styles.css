@@ -1,0 +1,38 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:770px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u20_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:730px;
+  height:780px;
+}
+#u20 {
+  position:absolute;
+  left:40px;
+  top:10px;
+  width:730px;
+  height:780px;
+  font-family:'长城细圆体 Bold', '长城细圆体 Regular', '长城细圆体';
+  font-style:normal;
+  text-align:left;
+}
+#u21 {
+  position:absolute;
+  left:2px;
+  top:2px;
+  width:726px;
+  word-wrap:break-word;
+}
